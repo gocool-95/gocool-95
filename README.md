@@ -6,7 +6,7 @@ I bridge the gap between product thinking and hands-on engineering — from gath
 
 ---
 
-## 🔧 What I'm working on
+## What I'm working on
 
 - **Migrating a production B2B SaaS app** from AngularJS → Next.js (solo, with Claude Code)
 - **RMG Beta** — dual-domain company management system for a granite manufacturing & services business
@@ -51,3 +51,31 @@ A personal full-stack trip itinerary app built for an actual Bali trip.
 
 **Stack:** Ionic 8 · React 19 · TypeScript · Node.js · Express · MongoDB · Capacitor (Android)
 
+**Key highlights:**
+- Offline-first sync via Dexie (IndexedDB) with delta updates using timestamp-based queries
+- Day-by-day itinerary management, ticket image uploads, GPS coordinates, booking references
+- Multi-currency payment tracking (IDR/USD), transport modes, and activity categorization
+- Android app via Capacitor | Built with Claude Code
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Node.js · Express.js · MongoDB · REST APIs · JWT  
+**Frontend:** React.js · Next.js · Expo (React Native)  
+**Legacy:** AngularJS · Ionic 3  
+**Tools:** Swagger · Git · Jira · BitBucket · Cloudinary · Railway  
+**AI-assisted dev:** Claude Code  
+
+---
+
+## About Me
+
+- 7+ years at Bizmobile IT Solutions — Software Developer → Deployment Lead → Product Manager
+- Designed and led a **6-microservice backend + API gateway** for a POS platform (Node.js, consulting engagement)
+- End-to-end client deployments including **Atmosphere Hotels & Resorts, Maldives**
+- CS graduate, Global Academy of Technology (2018)
+
+---
+
+gokulraj.cs95@gmail.com · [LinkedIn](https://www.linkedin.com/in/gokul-raj-92415653/)
